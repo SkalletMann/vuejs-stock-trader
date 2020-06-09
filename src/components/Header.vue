@@ -32,7 +32,7 @@
               aria-haspopup="true"
               aria-expanded="false"
             >
-              Save & Load
+              Save &amp; Load
               <span class="caret"></span>
             </a>
             <ul class="dropdown-menu">
